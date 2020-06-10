@@ -5,7 +5,7 @@ const createMachine = (transitions, options = {}) => (handlers) =>
   createMachineFactory({
     transitions,
     handlers,
-    stateKey: TrafficState.GO,
+    stateKey: "state",
     ...options,
   });
 
