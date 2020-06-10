@@ -1,0 +1,15 @@
+.node {
+  style: bold, filled;
+  shape: circle;
+  fillcolor: #e7004e;
+  color: #e7004e;
+  fontsize: 8;
+  fontname: helvetica;
+}
+
+.edge {
+  fontsize: 8;
+  fontname: helvetica;
+  arrowsize: 0.5;
+  penwidth: 0.5;
+}
