@@ -4,6 +4,6 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@paybase/machine": "^1.0.12"
+    "@f5io/machine": "^1.0.13"
   }
 }

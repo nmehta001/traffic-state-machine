@@ -1,4 +1,4 @@
-const createMachineFactory = require("@paybase/machine");
+const createMachineFactory = require("@f5io/machine");
 const TrafficState = require("./types");
 
 const createMachine = (transitions, options = {}) => (handlers) =>

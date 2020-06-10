@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@paybase/machine@^1.0.12":
-  version "1.0.12"
-  resolved "https://registry.yarnpkg.com/@paybase/machine/-/machine-1.0.12.tgz#598c9f556e1a5cdc0a72f299451524f0eee21ab1"
-  integrity sha512-lHv2BtsQymVVbF2Th3Cw8dSkPn157IdZ4D8rs6msTliWeWzWxamVn0pdvOwndKmjqOvk7uDzW9ZhxLsy60DObg==
+"@f5io/machine@^1.0.13":
+  version "1.0.13"
+  resolved "https://registry.yarnpkg.com/@f5io/machine/-/machine-1.0.13.tgz#0f050345d0ae5a8b094428086b28f50e8395fe1b"
+  integrity sha512-VQqNfoPK8rNHPnzs3Y5iM3toq91+jA5hrP3AyazzqyYptD8j6VhCdz8GwtW2C7UHc/KMA+5XgDaauu3NIBKFLA==
   dependencies:
     commander "^2.11.0"
     css-to-object "^1.1.0"
