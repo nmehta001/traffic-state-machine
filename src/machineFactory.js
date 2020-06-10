@@ -1,5 +1,5 @@
 const createMachineFactory = require("@paybase/machine");
-const { TrafficState } = require("./types");
+const TrafficState = require("./types");
 
 const createMachine = (transitions, options = {}) => (handlers) =>
   createMachineFactory({

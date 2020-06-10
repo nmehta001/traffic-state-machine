@@ -1,5 +1,5 @@
-const { extendTrafficMachine } = require("./machineFactory");
-const { TrafficState } = require("./types");
+const extendTrafficMachine = require("./machineFactory");
+const TrafficState = require("./types");
 
 const onEnterSlowDown = async (ctx) => {
   console.log(ctx);

@@ -1,5 +1,5 @@
-const { trafficMachine } = require("./machine");
-const { TrafficState } = require("./types");
+const trafficMachine = require("./machine");
+const TrafficState = require("./types");
 
 const machine = trafficMachine({ state: TrafficState.GO });
 
